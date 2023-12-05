@@ -1,4 +1,3 @@
-# profile
 Hi 👋 My name is Siddiq
 =======================
 
